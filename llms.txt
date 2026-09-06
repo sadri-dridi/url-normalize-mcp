@@ -1,0 +1,7 @@
+# URL Normalize
+
+Return origin, host, and path. Query and fragment are dropped.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/url-normalize/mcp)
+- [Catalog](https://agent-observatory-sensor.nolimit-observatory.workers.dev/c/github/api/catalog)
